@@ -1,0 +1,16 @@
+.footer{
+    margin-top: 205px;
+    width: 113%;
+    padding: 12px 3%;
+    background-color: rgb(144, 146, 177);
+    color: #EFEFFE;
+    display: flex;
+    height: 150px;
+}
+.footer div{
+    text-align: center;
+}
+.col-1{
+    margin-left: 30px;
+    margin-right: 80px;
+}
